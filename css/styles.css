@@ -1,3 +1,22 @@
 h1{
     color: blueviolet;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    font-style: normal;
+    font-family: 'Trebuchet MS';
+    text-decoration-color: blanchedalmond;
+}
+p{
+    color: coral;
+    font-size: large;
+    font-family:'Arial Narrow';
+    text-align: left;  
+}
+img {
+    border: radius 6px;
+    height: 100px;
+    width: 100px;
+    border-color: cornflowerblue;
+
 }
