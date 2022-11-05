@@ -8,15 +8,27 @@ h1{
     text-decoration-color: blanchedalmond;
 }
 p{
-    color: coral;
+    color: black;
     font-size: large;
     font-family:'Arial Narrow';
-    text-align: left;  
-}
+    text-align: left; 
+    }
 img {
     border: radius 6px;
     height: 100px;
     width: 100px;
     border-color: cornflowerblue;
-
+}
+ul {
+    font-style: italic;
+    text-align: justify;
+}
+ol {
+    font-style:italic;
+    text-align: justify;
+    color: black;
+}
+background image {
+    background-repeat: no-repeat;
+   
 }
