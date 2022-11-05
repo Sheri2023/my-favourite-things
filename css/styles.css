@@ -27,6 +27,9 @@ ol {
     font-style:italic;
     text-align: justify;
     color: black;
+    line: height 20px;
+    line-break: auto;
+    white-space:inherit
 }
 background image {
     background-repeat: no-repeat;
